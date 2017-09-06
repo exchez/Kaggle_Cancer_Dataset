@@ -103,3 +103,6 @@ test_text.csv
 test_variants.csv
 training_text.csv
 training_variants.csv
+
+# data
+*.pk
